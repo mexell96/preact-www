@@ -170,7 +170,7 @@ The legacy `Context` API requires Components to declare specific properties usin
 
 ## Features exclusive to `preact/compat`
 
-`preact/compat` is our **compat**ibility layer that translates React code to Preact. For existing React users this can be an easy way to try out Preact without changing any of your code, by [setting up a few aliases](https://preactjs.com/guide/v10/getting-started#aliasing-react-to-preact) in your bundler configuration.
+`preact/compat` is our compatibility layer that translates React code to Preact. For existing React users this can be an easy way to try out Preact without changing any of your code, by [setting up a few aliases](https://preactjs.com/guide/v10/getting-started#aliasing-react-to-preact) in your bundler configuration.
 
 ### Children API
 
